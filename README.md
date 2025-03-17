@@ -1,57 +1,34 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
+# 👋 Hi there, I'm Zumorinkashi17!
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+### 🚀 About Me
+- 💻 Passionate about coding, open-source, and building cool projects.
+- 🌱 Currently learning new technologies and improving my skills.
+- 🎯 Always looking for new challenges and opportunities to grow.
 
-  <h2 align="center">Tourly - Travel website</h2>
+---
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+### 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+---
 
-</div>
+### 📫 Let's Connect!
+📧 Email: [zumorinkashi17@gmail.com](mailto:zumorinkashi17@gmail.com)  
+💻 GitHub: [@zumorinkashi17](https://github.com/zumorinkashi17)  
 
-<br />
+---
 
-### Demo Screeshots
+### 📊 GitHub Stats
+![Zumorinkashi17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zumorinkashi17&show_icons=true&theme=radical)
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zumorinkashi17&layout=compact&theme=radical)
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Tourly** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/tourly.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
-"# laagan-web" 
+💡 _"Code, Create, Innovate."_  
+⭐ Don't forget to check out my repositories and leave a star if you find something useful!  
